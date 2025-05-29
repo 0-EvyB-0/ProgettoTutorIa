@@ -48,7 +48,7 @@ Schermata iniziale
 
 Esempio di risposta passo dopo passo
 
-![Risposta dettagliata](static/Soluzione.png)
+![Soluzione](Soluzione.png)
 
 🧩 Struttura del progetto
 
