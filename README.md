@@ -1,6 +1,6 @@
 # 🤖 Tutor MATEO AI – Assistente di Matematica Educativo
 
-MATEO è un tutor virtuale basato su **intelligenza artificiale**, pensato per aiutare studenti e studentesse (soprattutto con DSA, discalculia o autismo) a **risolvere problemi di matematica passo dopo passo**, con un linguaggio semplice, visivo e inclusivo.
+MATTEO è un tutor virtuale basato su **intelligenza artificiale**, pensato per aiutare studenti e studentesse (soprattutto con DSA, discalculia o autismo) a **risolvere problemi di matematica passo dopo passo**, con un linguaggio semplice, visivo e inclusivo.
 
 ![Tutor Mateo Screenshot](static/Tutor.png)
 
